@@ -1,0 +1,55 @@
+# Privacy Policy — 7ème Prototype
+
+*Last updated: 11/18/2026*
+
+## In short
+
+7ème Prototype collects no personal data. Everything you enter stays on
+your device.
+
+## Data we collect
+
+None. The app has no user account, no server, no analytics, and no
+advertising.
+
+## Data stored on your device
+
+Your items, sales, expenses, settings and photos are saved in a local
+database inside the app's private folder. They are never transmitted. They
+are removed if you uninstall the app, unless you exported them or your
+phone included them in its own backup (iCloud on iOS, depending on your
+settings).
+
+## The only outgoing connection
+
+When you scan a barcode, the app queries free public databases to try to
+find the product name: Open Food Facts, Open Beauty Facts and Open Products
+Facts.
+
+Only the barcode is sent. No information about you, your device or your
+inventory accompanies the request. If you are offline, the request fails
+silently and you fill the form in by hand.
+
+You can disable this lookup entirely: it is not required for the app to
+work.
+
+## Permissions requested
+
+- **Camera**: read barcodes and photograph your items.
+- **Photo library**: pick an existing photo to illustrate an item.
+
+Photos are copied into the app's private folder and never leave it.
+
+## Data sharing
+
+No sharing, no selling, no transfer to third parties. Only you can export
+your data, deliberately, through the backup feature.
+
+## Your rights
+
+Your data belongs to you and is under your sole control. You can export it,
+restore it, or erase it entirely from the app's settings.
+
+## Contact
+
+ayoubjabrane@icloud.com
