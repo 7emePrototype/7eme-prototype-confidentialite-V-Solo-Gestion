@@ -1,3 +1,5 @@
+*[English version](privacy)
+
 # Politique de confidentialité — 7ème Prototype
 
 *Dernière mise à jour : 18/11/2026.*
