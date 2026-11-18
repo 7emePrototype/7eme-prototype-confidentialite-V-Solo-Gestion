@@ -1,4 +1,4 @@
-*[English version](privacy)
+[English version](privacy)
 
 # Politique de confidentialité — 7ème Prototype
 
